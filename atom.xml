@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://VIVIDryan.github.io/"/>
-  <updated>2024-05-19T16:01:15.331Z</updated>
+  <updated>2024-05-20T11:41:09.065Z</updated>
   <id>https://VIVIDryan.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test article</title>
-    <link href="https://VIVIDryan.github.io/2024/05/19/test-article/"/>
-    <id>https://VIVIDryan.github.io/2024/05/19/test-article/</id>
-    <published>2024-05-19T15:57:17.000Z</published>
-    <updated>2024-05-19T16:01:15.331Z</updated>
+    <title>Org的基本操作和技巧1</title>
+    <link href="https://VIVIDryan.github.io/2024/05/20/org-de-ji-ben-cao-zuo-he-ji-qiao-1/"/>
+    <id>https://VIVIDryan.github.io/2024/05/20/org-de-ji-ben-cao-zuo-he-ji-qiao-1/</id>
+    <published>2024-05-20T09:45:59.000Z</published>
+    <updated>2024-05-20T11:41:09.065Z</updated>
     
     <summary type="html">
     
@@ -29,38 +29,16 @@
       
         
         
-          &lt;h1 id=&quot;This-is-a-Test-Article&quot;&gt;&lt;a href=&quot;#This-is-a-Test-Article&quot; class=&quot;headerlink&quot; title=&quot;This is a Test Article&quot;&gt;&lt;/a&gt;This is a Test
+          &lt;h1 id=&quot;Org的基本功能&quot;&gt;&lt;a href=&quot;#Org的基本功能&quot; class=&quot;headerlink&quot; title=&quot;Org的基本功能&quot;&gt;&lt;/a&gt;Org的基本功能&lt;/h1&gt;&lt;h2 id=&quot;组成部分&quot;&gt;&lt;a href=&quot;#组成部分&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
+      <category term="Geek" scheme="https://VIVIDryan.github.io/categories/Geek/"/>
     
-  </entry>
-  
-  <entry>
-    <title>5W2H | 关于写博客的七点反思</title>
-    <link href="https://VIVIDryan.github.io/2020/01/14/5w2h-godweiyang/"/>
-    <id>https://VIVIDryan.github.io/2020/01/14/5w2h-godweiyang/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2024-05-20T01:33:23.854Z</updated>
+      <category term="Emacs" scheme="https://VIVIDryan.github.io/categories/Geek/Emacs/"/>
     
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;When？什么时候开始写的？&quot;&gt;&lt;a href=&quot;#When？什么时候开始写的？&quot; class=&quot;headerlink&quot; title=&quot;When？什么时候开始写的？&quot;&gt;&lt;/a&gt;When？什么时候开始写的？&lt;/h2&gt;&lt;p&gt;第一次写博客是 2015 年了，在
-        
-      
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://VIVIDryan.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="博客" scheme="https://VIVIDryan.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
